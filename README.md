@@ -1,4 +1,4 @@
-# Unity-Mini-Worlds
+# Unity - Mini Worlds
 Mini worlds developed for an unreleased project of mine.
 
 This project is a simple Unity 2019.2.5f1 project. It has a scene with two mini worlds and a object named "Player" that can be attracted to the worlds.
